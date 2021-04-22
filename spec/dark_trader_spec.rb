@@ -5,6 +5,6 @@ require "open-uri"
 
 describe "content values" do
     it "test" do
-        expect(contentName()).to eq(contentPrice)
+        expect(()).to eq()
       end
     end
